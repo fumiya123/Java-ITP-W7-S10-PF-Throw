@@ -1,6 +1,6 @@
 # Java-ITP-W7-S10-PF-Throw
 
-Kelas Introduction to Programming / Week 6 / Session 10
+Kelas Introduction to Programming / Week 7 / Session 10
 
 ### Penjelasan:
 
